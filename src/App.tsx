@@ -56,7 +56,7 @@ const PROFILE = {
   year: "2nd Year (Sophomore)",
   location: "Ajmer, Rajasthan, India",
   linkedin: "https://www.linkedin.com/in/kubra-aiman-khira-9a178a323",
-  email: "kubrakhira2006@gmail.com", // Placeholder
+  email: "kubrakhira2006@gmail.com", 
   intro: "I am a sophomore driven by the intersection of artificial intelligence and human potential. Currently exploring deep learning architectures and their applications in environmental sustainability, while maintaining a fierce passion for public speaking and philosophical inquiry."
 };
 
@@ -334,7 +334,7 @@ export default function App() {
             >
               <div className="aspect-square rounded-3xl overflow-hidden glass-card p-2">
                 <img 
-                  src="https://drive.google.com/uc?export=view&id=14eFa2Ab115xMnoyEy_d68e0cBd-yPQ5t" 
+                  src="https://drive.google.com/file/d/14eFa2Ab115xMnoyEy_d68e0cBd-yPQ5t/view?usp=sharing" 
                   alt="Profile Placeholder" 
                   className="w-full h-full object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
