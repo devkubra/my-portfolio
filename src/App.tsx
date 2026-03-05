@@ -92,7 +92,7 @@ const PROJECTS: Project[] = [
   },
   {
     title: "Solar System Graphic",
-    description: "A small-scale project visualizing the solar system, blending my love for astrophysics and coding.",
+    description: "A small-scale project visualizing the solar system, blending my love for astronomy and coding.",
     tags: ["Python", "Turtle module"],
     link: "#"
   }
